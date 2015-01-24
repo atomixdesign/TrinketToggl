@@ -8,4 +8,4 @@ It also has the NeoPixel library, but doesn't really do anything with it yet (v2
 Requires the TrinketHidCombo library from Adafruit.
 
 More info:
-http://www.atomix.com.au/2015/01/creating-a-toggldesktop-startstop-button/
+http://www.atomix.com.au/2015/01/creating-toggldesktop-startstop-button/
